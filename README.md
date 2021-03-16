@@ -1,7 +1,7 @@
 ## This respositoire consists of several personal projects DataScience using Pandans, Numpy, Seaborn, Scikit-Learn. Some keywords are:
 - Manipulation, Clearning, Visualtion Data
 - Preprocessing Data with pipeline
-- Algorithm
+- Algorithms
   + Linear models: Logistic Regression, LinearSVC
   + KNN, SVC
   + RandomForest, Adaboosting, Gradienboosting
