@@ -1,4 +1,6 @@
-## This respositoire consists of several personal projects DataScience using Pandans, Numpy, Seaborn, Scikit-Learn. Some keywords are:
+
+This respositoire consists of several personal projects on DataScience using Pandans, Numpy, Seaborn, Scikit-Learn. Some keywords are:
+
 - Manipulation, Clearning, Visualtion Data
 - Preprocessing Data with pipeline
 - Algorithms
